@@ -1,0 +1,569 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Mar 31 2020  11:11AM",
+					"end_time": "Apr 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 31 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 31 2020  11:11AM",
+					"end_time": "Mar 31 2020 2:00PM"
+				},
+				{
+					"start_time": "Apr 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA01",
+			"real_name": "Luke Ward",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Apr 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 31 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA02",
+			"real_name": "William Smith",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+				
+			]
+		},
+		{
+			"id": "W0QCRPA03",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA04",
+			"real_name": "David Paul",
+			"tz": "Europe/France",
+			"activity_periods": [{
+					"start_time": "Feb 12 2020  1:33PM",
+					"end_time": "Feb 12 2020 4:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA05",
+			"real_name": "Robet Luke",
+			"tz": "Europe/Poland",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA06",
+			"real_name": "Manish Kumar",
+			"tz": "Asia/Delhi",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA07",
+			"real_name": "Dinesh Patil",
+			"tz": "Asia/Mumbai",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA08",
+			"real_name": "Rahul Kumar",
+			"tz": "Asia/Mumbai",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA09",
+			"real_name": "Dupuis Well",
+			"tz": "Europe/Turkey",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+				,
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA10",
+			"real_name": "Mihir Lal",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+				,
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA11",
+			"real_name": "Comotis Smith",
+			"tz": "Asia/Mumbai",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				},
+				{
+					"start_time": "Apr 2 2020  1:33PM",
+					"end_time": "Apr 2 2020 1:54PM"
+				},
+				{
+					"start_time": "Apr 3 2020  1:33PM",
+					"end_time": "Apr 3 2020 1:54PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA12",
+			"real_name": "Ram Singh",
+			"tz": "Asia/Punjab",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA13",
+			"real_name": "Ronin Zeff",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA14",
+			"real_name": "Jeff Henry",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+				
+			]
+		},
+		{
+			"id": "W0QCRPA15",
+			"real_name": "Tony Stark",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA16",
+			"real_name": "Rane Ward",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA17",
+			"real_name": "Kate Lorem",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+				
+			]
+		},
+		{
+			"id": "W0QCRPA18",
+			"real_name": "Henry Kate",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA19",
+			"real_name": "Pacard William",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA20",
+			"real_name": "Will Smith",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+				
+			]
+		},
+		{
+			"id": "W0QCRPA21",
+			"real_name": "Jhon Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA22",
+			"real_name": "Adam Will",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W0QCRPA23",
+			"real_name": "Kelin Smith",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+				
+			]
+		}
+	]
+}
